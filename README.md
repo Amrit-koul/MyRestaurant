@@ -1,6 +1,6 @@
 # My Restaurant Website
 
-Welcome to the elegant and modern Italian fine dining website. This repository contains the source code for our restaurant website.This project showcases a responsive and user-friendly website for a restaurant, featuring essential pages like Home, About, Menu, and Contact.
+Welcome to the modern Italian fine dining website. This repository contains the source code for our restaurant website.This project showcases a responsive and user-friendly website for a restaurant, featuring essential pages like Home, About, Menu, and Contact.
 
 ## Table of Contents
 
